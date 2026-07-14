@@ -30,3 +30,23 @@ Netflix Movies and TV Shows Dataset
 ## Repository Files
 - `netflix_analysis.ipynb`
 - `netflix_titles.csv` 
+## Visualizations
+
+### Movies vs TV Shows (Bar Chart)
+![Movies vs TV Shows](movies_vs_tvshows.png)
+
+### Movies vs TV Shows (Pie Chart)
+![Movies vs TV Shows Pie Chart](movies_vs_tvshows_piechart.png)
+
+### Top 10 Countries
+![Top Countries](top_countries.png)
+
+### Netflix Content Released by Year
+![Release Year](release_year.png)
+
+### Top 10 Directors
+![Top Directors](top_directors.png)
+
+## Conclusion
+
+This project demonstrates data cleaning, exploratory data analysis (EDA), and data visualization using Python, Pandas, NumPy, and Matplotlib. The analysis identifies trends in Netflix content based on content type, release year, country, and directors.
